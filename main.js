@@ -1,9 +1,11 @@
+// 1.
 var user = new Object();
 user.name = "John";
 user.surname = "Mike";
 user.name = "Peter";
 delete user.name;
 
+// 2.
 var fruit = {
     apple: 20,
     pear: 20,
